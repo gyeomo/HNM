@@ -42,4 +42,4 @@ Here, `t_star` corresponds to the transition point $t^{*}$ in the paper.
 ## Supplementary Material
 For detailed derivations, proofs, additional experimental results, and extended analyses, please refer to the supplementary material. 
 
-📄 [Supplementary Material](./supplementary.pdf)
+📄 [Supplementary Material](Supplementary_Material.pdf)
