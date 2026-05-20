@@ -1,6 +1,6 @@
 # Stabilizing Causal Structure Learning under Heteroscedasticity: Analysis and Mitigation of Optimization Failures
 
-Official implementation of **Stabilizing Causal Structure Learning under Heteroscedasticity: Analysis and Mitigation of Optimization Failures** (KDD 2026).
+Official implementation of **Stabilizing Causal Structure Learning under Heteroscedasticity: Analysis and Mitigation of Optimization Failures** ([KDD 2026](https://kdd2026.kdd.org/)).
 
 ## Requirements
 
