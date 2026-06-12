@@ -2,6 +2,12 @@
 
 Official implementation of **Stabilizing Causal Structure Learning under Heteroscedasticity: Analysis and Mitigation of Optimization Failures** ([KDD 2026](https://kdd2026.kdd.org/)).
 
+
+<p align="center">
+  <img src="image.png" width="900">
+</p>
+
+
 ## Requirements
 
 - python=3.9
